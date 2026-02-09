@@ -3,8 +3,9 @@ import Ticket from "../models/Ticket.js";
 import Alert from "../models/Alert.js";
 import User from "../models/User.js";
 import Society from "../models/Society.js";
-import Staff from "../../../gosociety_auth/src/models/Staff.js";
-import Admin from "../../../gosociety_auth/src/models/Admin.js";
+import Staff from "../models/Staff.js";
+import Admin from "../models/Admin.js";
+
 
 
 /**
